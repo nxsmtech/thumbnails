@@ -4,7 +4,7 @@ Single page app with thumbnails of the first page of PDF document.
 Documents stored in public/files folder, and are viewed by link.
 
 * Add new document
-* View document in modal windows-imagick
+* View document in modal windows
 * Delete document 
 
 ### Prerequisites
@@ -32,9 +32,9 @@ thumbnails per page.
 * - [x] When clicking on thumbnail, full document should be shown in full screen modal window. 
 * - [x] On top of the list page there is "add new document" button with document upload window. 
 * - [x] Once document is uploaded, it is shown at the end of the thumbnails list. 
-* - [ ] All communication from the front to backend should be through REST API. 
+* - [x] All communication from the front to backend should be through REST API. 
 * - [ ] Use any database of your choice (MySQL, PostgreSQL, SQLite, Redis, NoSQL, ....) 
-* - [ ] For backend/front please use Laravel or Lumen. 
+* - [x] For backend/front please use Laravel or Lumen. 
 * - [x] For frontend you are free to use any framework of your choice. 
 * - [x] Code should be delivered using gitlab, github, or bitbucket 
 * - [x] Code should be PSR-2 valid 
