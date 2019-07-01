@@ -20,6 +20,16 @@ Ghostscript
 * [ImageMagick](https://mlocati.github.io/articles/php-windows-imagick.html) - ImageMagick is a free and open-source software suite for displaying, converting, and editing raster image and vector image files.
 * [Ghostscript](https://stackoverflow.com/questions/3243361/how-to-install-test-convert-resize-pdf-using-imagemagick-ghostscript-window) - An interpreter for the PostScript language and for PDF.
 
+## Installation
+
+```
+git clone [project-link]
+
+php composer install
+php artisan key:generate
+```
+Set project on your local server and you are ready to go
+
 ## Built With
 
 * [Laravel 5.8](https://laravel.com/docs/5.8) - Laravel Framework
